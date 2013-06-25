@@ -10,6 +10,15 @@ public class MyApp {
 		System.out.println("GitHub is cool");
 		System.out.println("GitHub is fun");
 		System.out.println("GitHub is fun");
+		System.out.println("GitHub is cool");
+		System.out.println("GitHub is fun");
+		System.out.println("GitHub is fun");
+		System.out.println("GitHub is cool");
+		System.out.println("GitHub is fun");
+		System.out.println("GitHub is fun");
+		System.out.println("GitHub is cool");
+		System.out.println("GitHub is fun");
+		System.out.println("GitHub is fun");
 	}
 
 }
