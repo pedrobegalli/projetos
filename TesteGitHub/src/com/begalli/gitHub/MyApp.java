@@ -19,6 +19,7 @@ public class MyApp {
 		System.out.println("GitHub is cool");
 		System.out.println("GitHub is fun");
 		System.out.println("GitHub is fun");
+		Class2 class2 = new Class2();
 	}
 
 }
