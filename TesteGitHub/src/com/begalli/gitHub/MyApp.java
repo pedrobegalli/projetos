@@ -9,6 +9,7 @@ public class MyApp {
 		// TODO Auto-generated method stub
 		System.out.println("GitHub is cool");
 		System.out.println("GitHub is fun");
+		System.out.println("GitHub is fun");
 	}
 
 }
